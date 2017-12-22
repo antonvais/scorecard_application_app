@@ -1,6 +1,7 @@
 # History files
 .Rhistory
 .Rapp.history
+ShinyApp.log
 
 # Session Data files
 .RData
